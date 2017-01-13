@@ -98,7 +98,7 @@
 			
 			//连接websocket后端服务器
 			//this.socket = io.connect('ws://www.imshichao.com:8090');
-			this.socket = io.connect('http://127.0.0.1:8090');
+			this.socket = io.connect('http://www.imshichao.com:8090');
 			
 			//告诉服务器端有用户登录
 			this.socket.emit('login', {userid:this.userid, username:this.username});
