@@ -1,4 +1,4 @@
-This is a simple chat demo by using Node.js and Socket.IO.
+
 
 
 ##
@@ -7,4 +7,4 @@ This is a simple chat demo by using Node.js and Socket.IO.
 ##server：安装node.js ，之后npm install 安装需要的包，之后npm start启动
 
 ##在线演示：http://www.imshichao.com:8080 
-##源码：https://github.com/shic27/node-socket
+##源码：https://github.com/imshichao/node-socket
